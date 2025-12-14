@@ -1,4 +1,4 @@
-<img width="494" height="28" alt="image" src="https://github.com/user-attachments/assets/f50e6221-a35c-420b-8611-41e366ff3b99" /># Gestion Git du projet MLOps Lab
+# Gestion Git du projet MLOps Lab
 
 Ce README décrit les principales commandes Git utilisées tout au long du projet afin de versionner le code, gérer les branches et manipuler l’historique.
 
@@ -13,6 +13,9 @@ Cette étape permet d’initialiser le dépôt Git du projet.
 <img width="755" height="95" alt="image" src="https://github.com/user-attachments/assets/fee7f774-cb72-4512-abfa-66af328bcab0" />
 
 * Créer le fichier `.gitignore` et y ajouter :
+
+<img width="651" height="290" alt="image" src="https://github.com/user-attachments/assets/7407ee8f-1f6b-4008-9537-523eb8514059" />
+
 
 * Vérifier l’état du dépôt :
 
